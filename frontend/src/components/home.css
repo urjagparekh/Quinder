@@ -1,0 +1,41 @@
+.sideBar {
+  float: left;
+  border: 1px solid black;
+  width: 15%;
+  height: 100vh;
+  background: rgba(211, 211, 211, 0.1);
+}
+
+.sideLabels {
+  list-style-type: none;
+}
+
+.btn-link {
+  text-decoration: none !important;
+  display: inline-block;
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
+}
+
+#headingOne:hover,
+#headingTwo:hover {
+  background-color: rgba(211, 211, 211, 0.5);
+}
+
+.small {
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
+.list-no-bullet {
+  list-style-type: none;
+}
+
+.list-cursor {
+  cursor: pointer;
+}
+
+.container-fluid {
+  float: none !important;
+  margin-left: 250px;
+}

@@ -1,0 +1,17 @@
+.jumbotron-margin {
+  margin: 40px 0px 20px 0px;
+  padding: 0px;
+}
+
+.text-div-padding {
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 20px;
+}
+
+.row {
+  margin: 10px 0px 10px 0px !important;
+}
+
+.col-lg-12:hover {
+  cursor: pointer;
+}
